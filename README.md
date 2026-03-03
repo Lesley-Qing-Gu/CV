@@ -19,22 +19,6 @@ This is my personal CV website showcasing my experience, projects, and skills as
 - **Framer Motion** - Animations
 - **Lucide React** - Icons
 
-## 🚀 Development
-
-```bash
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Deploy to GitHub Pages
-npm run deploy
-```
-
 ## 📄 License
 
 © 2025 Lesley Qing Gu — Built with AI & Intent
