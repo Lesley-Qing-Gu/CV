@@ -388,15 +388,15 @@ export default function App() {
                 <FlaskConical size={12} /> Research
               </h4>
               <p className="text-sm text-black/70 leading-relaxed">
-                User Research, Experimental Design, Statistical Analysis (SPSS/R), HCI Methodology.
+                User Research, Co-Design, Experimental Design, Statistical Analysis, Prototyping.
               </p>
             </div>
             <div>
               <h4 className="text-xs font-bold uppercase tracking-widest mb-3 flex items-center gap-2">
-                <Code2 size={12} /> Tech
+                <Code2 size={12} /> Tech and Design
               </h4>
               <p className="text-sm text-black/70 leading-relaxed">
-                Vibecoding (AI-assisted), React, TypeScript, Python, Arduino, Figma, Adobe Toolkit.
+                Vibecoding, React, TypeScript, Python, Websocket, Firebase, Jira, Figma & Plugin, Adobe Toolkit.
               </p>
             </div>
             <div>
